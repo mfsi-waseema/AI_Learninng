@@ -1,5 +1,6 @@
 venv/
 .env
+.env.example
 qdrant_storage/
 chat_history.db
 __pycache__/
