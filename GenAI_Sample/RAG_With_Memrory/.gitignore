@@ -1,0 +1,8 @@
+venv/
+.env
+qdrant_storage/
+chat_history.db
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store

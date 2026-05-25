@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-google-genai
+langchain-groq
+langchain-qdrant
+langchain-community
+qdrant-client
+sentence-transformers
+beautifulsoup4
+pydantic
+pydantic-settings
+python-dotenv
+streamlit
