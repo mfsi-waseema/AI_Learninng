@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "essay_evaluator": "./5_langgraph.py:workflow"
+  },
+  "env": ".env"
+}
