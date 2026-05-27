@@ -1,5 +1,3 @@
-# pip install -U langgraph langchain-openai pydantic python-dotenv langsmith
-
 import operator
 from typing import TypedDict, Annotated, List
 

@@ -1,5 +1,3 @@
-# pip install -U langchain langchain-openai langchain-community faiss-cpu pypdf python-dotenv
-
 import os
 from dotenv import load_dotenv
 from langchain_community.document_loaders import PyPDFLoader
